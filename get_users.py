@@ -6,8 +6,8 @@ from seleniumbase import sb_cdp
 from selenium.webdriver.chrome.options import Options
 
 def get_h1_leaderboard_usernames(num_users):
-    url = "https://hackerone.com/leaderboard/reputation?year=2026&quarter=1&owasp=a1&country=US&assetType=WEB_APP&tab=all&userTypeTab=individual"
-    
+    url = "https://hackerone.com/leaderboard/all_time_reputation?year=2026&quarter=1&owasp=a1&country=US&assetType=WEB_APP&tab=all&userTypeTab=individual"
+          #https://hackerone.com/leaderboard/reputation?year=2026&quarter=1&owasp=a1&country=US&assetType=WEB_APP&tab=all&userTypeTab=individual
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     # Initialize SeleniumBase with UC Mode
@@ -25,7 +25,7 @@ def get_h1_leaderboard_usernames(num_users):
         sb.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         sb.sleep(3)
         sb.execute_script("window.scrollTo(0, 0);") # Scroll back up
-        sb.sleep(2)
+        sb.sleep(5)
 
         print("[*] Extracting usernames via JavaScript...")
         
