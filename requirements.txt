@@ -1,0 +1,4 @@
+requests
+playwright
+playwright-stealth
+neo4j
