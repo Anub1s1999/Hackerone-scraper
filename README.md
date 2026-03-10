@@ -137,9 +137,14 @@ What happens:
 
 ### Demo (screenshots + video)
 - **Screenshots**
-  
-RunThePr
+  <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
+  <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
+  <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
+  <img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />
+  <img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />
+  <br></br>
 - **Video**
+
   - _TODO: link to a demo video here_
 
 ### Technical details (deep dive)
@@ -448,21 +453,12 @@ python main.py 100
 - `main.py` сохраняет `hackerone_users.json`
 
 ### Демо (скриншоты + видео)
-
-Рекомендуемые пути для будущих материалов (создайте позже):
-
-- `docs/demo/screenshots/`
-  - `run-1-cli.png`
-  - `output-hackers-csv.png`
-  - `output-contributions-csv.png`
-  - `neo4j-import.png`
-- `docs/demo/video/`
-  - `demo.mp4` (или ссылка)
-
-Затем заполните этот раздел:
-
 - **Скриншоты**
-  - _TODO: вставьте скриншоты здесь_
+  <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
+  <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
+  <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
+  <img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />
+  <img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />
 - **Видео**
   - _TODO: добавьте ссылку на видео-демо здесь_
 
