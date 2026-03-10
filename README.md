@@ -136,21 +136,9 @@ What happens:
 - `main.py` writes `hackerone_users.json`
 
 ### Demo (screenshots + video)
-
-Add your media here (recommended paths; create them when you’re ready):
-
-- `docs/demo/screenshots/`
-  - `run-1-cli.png`
-  - `output-hackers-csv.png`
-  - `output-contributions-csv.png`
-  - `neo4j-import.png`
-- `docs/demo/video/`
-  - `demo.mp4` (or a link)
-
-Then update this section:
-
 - **Screenshots**
-  - _TODO: insert screenshots here_
+  
+RunThePr
 - **Video**
   - _TODO: link to a demo video here_
 
