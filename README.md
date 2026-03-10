@@ -127,6 +127,11 @@ python main.py
 python main.py 15
 python main.py 100
 ```
+if there is no need to launch the browser we use the `--headless` parameter.
+```bash
+python main.py 15 --headless
+python main.py 100 --headless
+```
 
 What happens:
 
@@ -138,15 +143,14 @@ What happens:
 ### Demo (screenshots + video)
 - **Screenshots**
 - All the screenshots are with `--headless` parameter
-  <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
-  <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
-  <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
-  <img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />
-  <img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />
+  - _<img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />_
+  - _<img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />_
+  - _<img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />_
+  - _<img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />_
+  - _<img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />_
   <br></br>
 - **Video**
-
-  - _TODO: link to a demo video here_
+  - _https://github.com/user-attachments/assets/1de3f4f2-b028-4931-83f8-4ed686ab4177_
 
 ### Technical details (deep dive)
 
@@ -445,7 +449,11 @@ python main.py
 python main.py 15
 python main.py 100
 ```
-
+Если нет необходимости запускать браузер, мы используем параметр `--headless`.
+```bash
+python main.py 15 --headless
+python main.py 100 --headless
+```
 Что происходит:
 
 - `get_h1_leaderboard_usernames(N)` получает username’ы из фиксированного URL (сейчас захардкожен в `get_users.py`)
@@ -456,13 +464,13 @@ python main.py 100
 ### Демо (скриншоты + видео)
 - **Скриншоты**
 - Все скриншоты сделаны с параметром `--headless`.
-  <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
-  <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
-  <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
-  <img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />
-  <img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />
+  - _<img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />_
+  - _<img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />_
+  - _<img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />_
+  - _<img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />_
+  - _<img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />_
 - **Видео**
-  - _TODO: добавьте ссылку на видео-демо здесь_
+  - _https://github.com/user-attachments/assets/1de3f4f2-b028-4931-83f8-4ed686ab4177_
 
 ### Технические детали (подробно)
 
