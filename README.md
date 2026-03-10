@@ -137,6 +137,7 @@ What happens:
 
 ### Demo (screenshots + video)
 - **Screenshots**
+- All the screenshots are with `--headless` parameter
   <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
   <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
   <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
@@ -454,6 +455,7 @@ python main.py 100
 
 ### Демо (скриншоты + видео)
 - **Скриншоты**
+- Все скриншоты сделаны с параметром `--headless`.
   <img width="1886" height="157" alt="RunTheProgram" src="https://github.com/user-attachments/assets/cc80a3eb-60d5-47e5-99f6-fc7416360796" />
   <img width="555" height="370" alt="LoadHackers" src="https://github.com/user-attachments/assets/6018c0c9-8789-446e-804c-da364f133cd2" />
   <img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />
