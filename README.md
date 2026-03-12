@@ -149,8 +149,9 @@ What happens:
   - _<img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />_
   - _<img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />_
   <br></br>
-- **Video**
-  - [![Watch the video](https://github.com/user-attachments/assets/1ec6883c-cff6-44dc-b99f-7bdc486222f9)](https://github.com/user-attachments/assets/d7c23104-943b-47ba-99c0-b043953ca097
+- **Video:**
+  
+  [![Watch the video](https://github.com/user-attachments/assets/1ec6883c-cff6-44dc-b99f-7bdc486222f9)](https://github.com/user-attachments/assets/d7c23104-943b-47ba-99c0-b043953ca097
 )
 ### Technical details (deep dive)
 
@@ -469,8 +470,10 @@ python main.py 100 --headless
   - _<img width="552" height="191" alt="LoadContributors" src="https://github.com/user-attachments/assets/fe1b0cf0-3758-471e-bcc6-9af5262802dc" />_
   - _<img width="737" height="49" alt="hacker_users-saved" src="https://github.com/user-attachments/assets/47a3c9d2-76cb-45f2-a5c1-00ccd683517d" />_
   - _<img width="883" height="555" alt="CSV-ALL-Saved" src="https://github.com/user-attachments/assets/bb5b3900-41cc-4c1d-8fea-8b4a9a98d968" />_
-- **Видео**
-  - _https://github.com/user-attachments/assets/1de3f4f2-b028-4931-83f8-4ed686ab4177_
+- **Видео:**
+  
+  [![Watch the video](https://github.com/user-attachments/assets/1ec6883c-cff6-44dc-b99f-7bdc486222f9)](https://github.com/user-attachments/assets/d7c23104-943b-47ba-99c0-b043953ca097
+)
 
 ### Технические детали (подробно)
 
